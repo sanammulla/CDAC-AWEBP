@@ -1,0 +1,12 @@
+<dac>
+    <student>
+        <fname>Sanam</fname>
+        <lname>Mulla</lname>
+        <from>Sangli</from>
+    </student>
+    <student>
+        <fname>Rahul</fname>
+        <lname>Khot</lname>
+        <from>Kolhapur</from>
+    </student>
+</dac>
